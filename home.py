@@ -6,4 +6,4 @@ def index():
     return render_template("index.html")
  
 if __name__ == "__main__":
-    app.run("0.0.0.0", 5050, debug=True, use_reloader=False)
+    app.run("0.0.0.0", 80, debug=True, use_reloader=False)
