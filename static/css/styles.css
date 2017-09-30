@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=Amatic+SC:700);
+ 
+body{
+    text-align: center;    
+    background-color: #000000;
+}
+
+.primary {
+	font-family: 'Amatic SC', cursive;
+    font-weight: normal;
+    color: #DD00EE;
+}
+
+.main_header {
+    font-size: 40em;
+    margin: 0;
+    
+}
