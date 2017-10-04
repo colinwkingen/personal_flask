@@ -9,6 +9,10 @@ body{
     color: #DD000E;
 }
 
+.secondary {
+	color: #0E00DD;
+}
+
 .main_header {
 	font-family: 'Amatic SC', cursive;
     font-size: 20em;
@@ -18,7 +22,7 @@ body{
 
 .index_list {
 	list-style: none;
-	font-size: 3em;
+	font-size: 2em;
 	color: #FFFFFF;
 }
 
